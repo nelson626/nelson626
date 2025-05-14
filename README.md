@@ -26,7 +26,7 @@
 Some of the projects that I am most proud of at this point in time in my Computer Science career include these two projects!: 
 
 * <a href="https://github.com/nelson626/Bridge-Problem" style="color: rgb(157, 0, 255); text-decoration: underline;text-decoration-style: dotted;">Multithreading Bridge Crossing Problem!</a> - this is a project I did for one of my classes that I ended up going a little too far on. Since I didn't want to throw away all the hard work I did on this project I wanted to showcase for others to see!
-* <a href="https://github.com/nelson626/Bridge-Problem" style="color: rgb(157, 0, 255); text-decoration: underline;text-decoration-style: dotted;">Basic 2D Platformer in Godot</a>  - no link for this one yet! Adding it to my github soon!
+* <a href="https://github.com/nelson626/2d-Platformer" style="color: rgb(157, 0, 255); text-decoration: underline;text-decoration-style: dotted;">Basic 2D Platformer in Godot</a>  - no link for this one yet! Adding it to my github soon!
 
 
 <hr style="border-top: 6px solid rgb(157, 0, 255);">
