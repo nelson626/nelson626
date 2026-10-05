@@ -19,6 +19,10 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nelsonas4?theme=catppuccinMocha&font=IBM%20Plex%20Sans)
 
+In addition to being on LeetCode I also like to do Try Hack Me rooms to learn more about cybersecurity and brush up on my scripting skills. Check me out below. 
+
+[THM](https://tryhackme.com/p/andrewne60?tab=completed-rooms)
+
 ## Projects
 
 Feel free to check out any projects I have posted on here. I don't post everything I make publicly, feel free to reach out to me if you have any questions about any of the projects and want to connect regarding a per-existing or new project. 
