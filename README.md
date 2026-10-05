@@ -15,17 +15,16 @@
 
 * I am a Master's Computer Science attending Virginia Commonwealth University
 * I am interested in a variety of topics including cybersecurity, game development, and software engineering.
+* I primarily write code in C, Java, Bash, and Python. I do some C++ and C# for game programming sometimes too.
+* When I have time the next language I want to really dive into is Go! I really enjoy parallelism and rewriting programs to be faster and I have heard Go is great for parallelism!
 * I love doing puzzles on leetcode, here are some stats from my profile!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nelsonas4?theme=catppuccinMocha&font=IBM%20Plex%20Sans)
 
-In addition to being on LeetCode I also like to do Try Hack Me rooms to learn more about cybersecurity and brush up on my scripting skills. Check me out below. 
-
-[THM](https://tryhackme.com/p/andrewne60?tab=completed-rooms)
+In addition to being on LeetCode I also like to do Try Hack Me rooms to learn more about cybersecurity and brush up on my scripting skills. Check me out at --> [THM](https://tryhackme.com/p/andrewne60?tab=completed-rooms). 
 
 ## Projects
 
-Feel free to check out any projects I have posted on here. I don't post everything I make publicly, feel free to reach out to me if you have any questions about any of the projects and want to connect regarding a per-existing or new project. 
-
+Feel free to check out any projects I have posted on here. I don't post everything I make publicly, feel free to reach out to me if you have any questions about any of my projects and want to connect regarding a pre-existing or new project. 
 
 <hr style="border-top: 6px solid rgb(157, 0, 255);">
