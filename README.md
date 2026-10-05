@@ -4,11 +4,11 @@
 
 ## About me
 
-* I am a 1st year computer science graduate student studying at Virginia Commonwealth University
+* I am a Master's Computer Science attending Virginia Commonwealth University
 * I am interested in a variety of topics including cybersecurity, game development, and software engineering.
 * I love doing puzzles on leetcode, here are some stats from my profile!
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nelsonas4?theme=catppuccinMocha&font=IBM%20Plex%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nelsonas4?theme=catppuccinMocha&font=IBM%20Plex%20Sans)
 
 ## Technologies I engage with!
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
